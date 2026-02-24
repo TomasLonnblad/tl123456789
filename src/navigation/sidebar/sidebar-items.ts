@@ -133,7 +133,7 @@ export const sidebarItems: NavGroup[] = [
 
       {
         title: "3D",
-        url: "/dashboard/motionxxxx/app",
+        url: "/dashboard/motionxxxx1/app",
         icon: ShoppingBag,
       
       },
