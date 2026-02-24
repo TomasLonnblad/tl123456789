@@ -1,7 +1,7 @@
 "use client"
 import { Transition } from "motion/react"
 import * as motion from "motion/react-client"
-import "./globals.css";
+
 const transition: Transition = {
     duration: 4,
     repeat: Infinity,
