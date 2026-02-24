@@ -1,7 +1,4 @@
-Open in Cursor
-Source
-Source code
-Close
+
 "use client"
 
 import { useAnimationFrame } from "motion/react"
